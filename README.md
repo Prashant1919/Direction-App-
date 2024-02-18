@@ -1,0 +1,1 @@
+The Direction Sensor Android App is a mobile application designed for Android devices that utilizes sensor concepts to determine and display the user's current direction. The app integrates accelerometer sensor data along with the device's compass to provide real-time information about the user's orientation relative to the cardinal directions (north, south, east, west).
